@@ -8,7 +8,7 @@ metadata:
     tekton.dev/pipelines.minVersion: "0.12.1"
     tekton.dev/categories: Security
     tekton.dev/tags: CLI, anchore
-    tekton.dev/displayName: "anchore cli"
+    tekton.dev/displayName: "anchore cli rolika"
     tekton.dev/platforms: "linux/amd64"
 spec:
   description: >-
